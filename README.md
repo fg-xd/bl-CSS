@@ -5,3 +5,4 @@ I created this company, this is a cool CSS framework (black-blueviolet) which is
 > 
 > I m just a *kid* and this is not a very important thing for me
 # THANKS!
+Also, look at the /r/ before use.
