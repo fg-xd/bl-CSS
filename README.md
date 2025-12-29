@@ -1,8 +1,6 @@
-# bl
-I created this company, this is a cool CSS framework (black-blueviolet) which is **very small** so please no hate.
-> [!Note]
-> It is ultra lightweight and works for simple website
-> 
-> I m just a *kid* and this is not a very important thing for me
-# THANKS!
-Also, look at the /r/ before use.
+# bl CSS
+A *lightweight*, **blueviolet**, ***small*** CSS framework!
+# 0.7.1 - Release notes(by Dev)
+Idk but I guess people *might've* got angry at me for not putting the ```@import url(link-to-font)``` in the **CSS** itself but now, It is finally in the CSS :D! Plus I fixed the linkbtn class :D!
+
+Have a Nice day Using it **:D**
