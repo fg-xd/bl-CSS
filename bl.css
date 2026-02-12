@@ -161,4 +161,49 @@ body{
 	flex-direction: column;
 	gap: 10px;
 }
+/* Form (NEW) */
+.form{
+	display: table;
+	padding: 12px;
+	border: var(--_4) 1px solid;
+	border-radius: 5px;
+	background-color: black;
+	transition: 0.4s ease;
+}
+.form:hover{
+	border: var(--_) 1px solid;
+}
+.form:focus-within{
+	border: var(--_) 1px solid;
+}
+.in{
+	display: table;
+	color: white;
+	font-family: "Cause";
+	padding: 5px;
+	background-color: black;
+	border: rgba(128,128,128,0.6) 1px solid;
+	border-radius: 5px;
+	transition: 0.4s ease;
+}
+.in:hover{
+	border: var(--_) 1px solid;
+}
+.in:focus{
+	border: var(--_) 1px solid;
+	outline: none;
+}
+.in::placeholder{
+	color: rgb(128,128,128);
+	font-family: "Cause";
+}
+.label{
+	font-family: "Cause";
+	padding: 4px 0;
+	color: white;
+	transition: 0.4s ease;
+}
+.label:focus-within{
+	color: var(--_);
+}
 }
